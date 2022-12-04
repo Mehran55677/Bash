@@ -8,5 +8,5 @@ if [ "$ans" = "y" ];
 then
     echo "You're man of culture..."
 else
-    echo "You are a BITCH!"
+    echo "You are a PUSSY!"
 fi
